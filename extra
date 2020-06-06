@@ -1,0 +1,17 @@
+npm init -y
+npm i express
+
+npm i -g nodemon
+
+npm run dev
+npm start
+
+mongod
+mongo
+classpractice
+db.nodeat8.find()
+
+
+Crud
+>Create Read Update Delete
+post    get   put   delete
